@@ -1,2 +1,2 @@
 # OOP_assignments
-All 4 FAST-NUCES Islamabad Campus OOP assignments at your service! :p
+All 3 FAST-NUCES Islamabad Campus OOP assignments + Semester Project at your service! :p
