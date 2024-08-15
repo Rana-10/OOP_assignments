@@ -4,4 +4,12 @@ extract the folder
 open the terminal in that folder
 type make to build 
 type ./game to run brick breaker game
+
+press m to play Level 1 
+press s to play Level 2
+press h to display high score
+press spacebar to pause game 
+press esc to exit game
+use mouse to play the game :D
+
 enjoy!
