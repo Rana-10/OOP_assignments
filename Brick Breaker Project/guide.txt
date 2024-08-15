@@ -1,0 +1,7 @@
+will work on ** UBUNTU ** only, make sure you have all necessary libraries installed
+
+extract the folder
+open the terminal in that folder
+type make to build 
+type ./game to run brick breaker game
+enjoy!
